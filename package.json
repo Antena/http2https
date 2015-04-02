@@ -1,0 +1,23 @@
+{
+  "name": "http2https",
+  "version": "1.0.0",
+  "description": "Redirect http requests to https",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Antena/http2https.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antena/http2https/issues"
+  },
+  "homepage": "https://github.com/Antena/http2https",
+  "dependencies": {
+    "winston": "^0.9.0"
+  }
+}
